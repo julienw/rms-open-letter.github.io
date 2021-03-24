@@ -404,7 +404,6 @@ Signed,
 - Jamie Gaskins
 - Jane Manchun Wong
 - Jani "zment" Kärkkäinen
-- Jannis Leidel (aka "jezdez", Fellow and Director, Python Software Foundation; former Director, Django Software Foundation; Django project alumnus; Software Engineer, Mozilla; founder, PyPA; founder, Jazzband)
 - Jan Lehnardt (Apache CouchDB PMC Chair)
 - Jan Sprinz (UBports Foundation Board of Directors, Ubuntu Member)
 - Jason Barbier
@@ -481,6 +480,7 @@ Signed,
 - Julien Rabier
 - julien tayon
 - Julien Voisin
+- Julien Wajsberg (Mozilla)
 - June Taylor
 - Justin Dearing (@zippy1981)
 - Justin Haygood
@@ -743,7 +743,6 @@ Signed,
 - Robert Joslyn
 - Robert Lipe (GPSBabel creator, contributor to open source since 87)
 - Robert Newson (Apache CouchDB PMC, ASF Member)
-- Robert McQueen (President of the GNOME Foundation)
 - Robey Pointer (paramiko, eggdrop)
 - Robin Widegren
 - Rob Smith (SeaGL Co-Founder)
